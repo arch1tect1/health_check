@@ -1,0 +1,5 @@
+INFO:root: 2023-09-17 14-00-07 | CPU: 21.1% | RAM: 77.9% | Disk: 32% | Opening ports: [22, 80, 443] |
+INFO:root: 2023-09-17 14-04-00 | CPU: 28.9% | RAM: 78.5% | Disk: 32% | Opening ports: [22, 80, 443] |
+INFO:root: 2023-09-17 14-04-06 | CPU: 30.3% | RAM: 78.9% | Disk: 32% | Opening ports: [22, 80, 443] |
+WARNING:root: 2023-09-17 14-04-41 | CPU: 26.3% | RAM: 75.8% | Disk: 32% | Opening ports: [22, 80, 443] |
+WARNING:root: 2023-09-17 14-05-23 | CPU: 50.5% | RAM: 79.5% | Disk: 32% | Opening ports: [22, 80, 443] |
